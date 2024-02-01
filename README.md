@@ -19,8 +19,8 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Express.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Tailwind-CSS](https://img.shields.io/badge/-tailwind-css-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
+![Express.JS](https://img.shields.io/badge/-Express.JS-0D1117?style=for-the-badge&logo=express.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Tailwind-CSS](https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwind&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
